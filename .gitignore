@@ -2,14 +2,16 @@
 node_modules
 *.txt
 .env
-Microsoft\VisualStudio Services/
+Microsoft/VisualStudio\ Services/
 qBittorrent/
 configstore/
 stetic/
-build/
+xbuild/
 zed/
 svim/
 screensavers/
 iterm2/
+.mono/
+.zsh-vi-mode/
 
 
