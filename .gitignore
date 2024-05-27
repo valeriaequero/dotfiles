@@ -1,0 +1,15 @@
+.DS_store
+node_modules
+*.txt
+.env
+Microsoft\VisualStudio Services/
+qBittorrent/
+configstore/
+stetic/
+build/
+zed/
+svim/
+screensavers/
+iterm2/
+
+
