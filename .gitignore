@@ -2,7 +2,7 @@
 node_modules
 *.txt
 .env
-Microsoft/VisualStudio\ Services/
+Microsoft\\VisualStudio\ Services/
 qBittorrent/
 configstore/
 stetic/
