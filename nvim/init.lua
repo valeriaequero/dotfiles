@@ -1,4 +1,4 @@
-require "options"
-require "mappings"
-require "autocmds"
-require "plugins"
+require('plugins')
+require('options') 
+require('keymaps')
+require('colorscheme')
